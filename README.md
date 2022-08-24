@@ -12,7 +12,7 @@
 
 <h2 align="center">Links:</h2>
 
-<p align="center">Projeto no Vercel: </p>
+<p align="center">Projeto no Vercel: https://victor-store.vercel.app</p>
 
 ## 🛠️ Abrir e rodar o projeto
 
